@@ -2,7 +2,7 @@
 
 ## Timed Quiz application  
 
-The challenge is to create a [timed quiz](link of deployed site).  The topic is Javascript fundamentals, and the quiz is presented in the form of multiple-choice questions. 
+The challenge is to create a [timed quiz](https://geleasure.github.io/TimedQuiz/).  The topic is Javascript fundamentals, and the quiz is presented in the form of multiple-choice questions. 
 
 ## Rules 
 
@@ -19,4 +19,4 @@ The sound comes from Google sounds - license here:  https://creativecommons.org/
 ## Contribution
 Made with 🙏 by Grant
 
-![Timed Quiz](./timedquiz.png)
+![Passxgenerator Sit](./timedquiz.png)
